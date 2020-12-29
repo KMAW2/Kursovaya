@@ -1,0 +1,164 @@
+{"username":"Server","token":0,"text":"\t\t\tПользователь Miska зашёл в чат","time":"2020-12-26T19:09:54.4072096Z"}
+{"username":"Server","token":0,"text":"\t\t\tПользователь Miska зашёл в чат","time":"2020-12-26T19:09:54.4072096Z"}
+{"username":"Server","token":0,"text":"\t\t\tПользователь Miska зашёл в чат","time":"2020-12-26T21:32:53.6887192Z"}
+{"username":"Server","token":0,"text":"\t\t\tПользователь Miska зашёл в чат","time":"2020-12-27T18:11:52.9911449Z"}
+{"username":"Server","token":0,"text":"\t\t\tПользователь Miska зашёл в чат","time":"2020-12-27T18:24:35.1768634Z"}
+{"username":"Server","token":0,"text":"\t\t\tПользователь Miska зашёл в чат","time":"2020-12-27T18:30:39.599239Z"}
+{"username":"Server","token":0,"text":"\t\t\tПользователь Miska зашёл в чат","time":"2020-12-26T19:09:54.4072096Z"}
+{"username":"Server","token":0,"text":"\t\t\tПользователь Miska зашёл в чат","time":"2020-12-26T21:32:53.6887192Z"}
+{"username":"Server","token":0,"text":"\t\t\tПользователь Miska зашёл в чат","time":"2020-12-27T18:11:52.9911449Z"}
+{"username":"Server","token":0,"text":"\t\t\tПользователь Miska зашёл в чат","time":"2020-12-27T18:24:35.1768634Z"}
+{"username":"Server","token":0,"text":"\t\t\tПользователь Miska зашёл в чат","time":"2020-12-27T18:30:39.599239Z"}
+{"username":"Server","token":0,"text":"\t\t\tПользователь Miska зашёл в чат","time":"2020-12-27T18:34:04.8224587Z"}
+{"username":"Server","token":0,"text":"\t\t\tПользователь Miska зашёл в чат","time":"2020-12-27T18:45:42.6548495Z"}
+{"username":"Server","token":0,"text":"\t\t\tПользователь Miska зашёл в чат","time":"2020-12-27T18:46:20.8913738Z"}
+{"username":"Server","token":0,"text":"\t\t\tПользователь Miska зашёл в чат","time":"2020-12-27T18:48:36.965745Z"}
+{"username":"Server","token":0,"text":"\t\t\tПользователь Miska зашёл в чат","time":"2020-12-26T19:09:54.4072096Z"}
+{"username":"Server","token":0,"text":"\t\t\tПользователь Miska зашёл в чат","time":"2020-12-26T21:32:53.6887192Z"}
+{"username":"Server","token":0,"text":"\t\t\tПользователь Miska зашёл в чат","time":"2020-12-27T18:11:52.9911449Z"}
+{"username":"Server","token":0,"text":"\t\t\tПользователь Miska зашёл в чат","time":"2020-12-27T18:24:35.1768634Z"}
+{"username":"Server","token":0,"text":"\t\t\tПользователь Miska зашёл в чат","time":"2020-12-27T18:30:39.599239Z"}
+{"username":"Server","token":0,"text":"\t\t\tПользователь Miska зашёл в чат","time":"2020-12-27T18:34:04.8224587Z"}
+{"username":"Server","token":0,"text":"\t\t\tПользователь Miska зашёл в чат","time":"2020-12-26T19:09:54.4072096Z"}
+{"username":"Server","token":0,"text":"\t\t\tПользователь Miska зашёл в чат","time":"2020-12-26T21:32:53.6887192Z"}
+{"username":"Server","token":0,"text":"\t\t\tПользователь Miska зашёл в чат","time":"2020-12-27T18:11:52.9911449Z"}
+{"username":"Server","token":0,"text":"\t\t\tПользователь Miska зашёл в чат","time":"2020-12-27T18:24:35.1768634Z"}
+{"username":"Server","token":0,"text":"\t\t\tПользователь Miska зашёл в чат","time":"2020-12-27T18:30:39.599239Z"}
+{"username":"Server","token":0,"text":"\t\t\tПользователь Miska зашёл в чат","time":"2020-12-27T18:34:04.8224587Z"}
+{"username":"Server","token":0,"text":"\t\t\tПользователь Miska зашёл в чат","time":"2020-12-27T18:45:42.6548495Z"}
+{"username":"Server","token":0,"text":"\t\t\tПользователь Miska зашёл в чат","time":"2020-12-27T18:46:20.8913738Z"}
+{"username":"Server","token":0,"text":"\t\t\tПользователь Miska зашёл в чат","time":"2020-12-27T18:48:36.965745Z"}
+{"username":"Server","token":0,"text":"\t\t\tПользователь Miska зашёл в чат","time":"2020-12-27T18:50:45.3369906Z"}
+{"username":"Server","token":0,"text":"\t\t\tПользователь Miska зашёл в чат","time":"2020-12-27T18:56:54.0054173Z"}
+{"username":"Server","token":0,"text":"\t\t\tПользователь Miska зашёл в чат","time":"2020-12-26T19:09:54.4072096Z"}
+{"username":"Server","token":0,"text":"\t\t\tПользователь Miska зашёл в чат","time":"2020-12-26T21:32:53.6887192Z"}
+{"username":"Server","token":0,"text":"\t\t\tПользователь Miska зашёл в чат","time":"2020-12-27T18:11:52.9911449Z"}
+{"username":"Server","token":0,"text":"\t\t\tПользователь Miska зашёл в чат","time":"2020-12-27T18:24:35.1768634Z"}
+{"username":"Server","token":0,"text":"\t\t\tПользователь Miska зашёл в чат","time":"2020-12-27T18:30:39.599239Z"}
+{"username":"Server","token":0,"text":"\t\t\tПользователь Miska зашёл в чат","time":"2020-12-27T18:34:04.8224587Z"}
+{"username":"Server","token":0,"text":"\t\t\tПользователь Miska зашёл в чат","time":"2020-12-27T18:45:42.6548495Z"}
+{"username":"Server","token":0,"text":"\t\t\tПользователь Miska зашёл в чат","time":"2020-12-27T18:46:20.8913738Z"}
+{"username":"Server","token":0,"text":"\t\t\tПользователь Miska зашёл в чат","time":"2020-12-27T18:48:36.965745Z"}
+{"username":"Server","token":0,"text":"\t\t\tПользователь Miska зашёл в чат","time":"2020-12-27T18:50:45.3369906Z"}
+{"username":"Server","token":0,"text":"\t\t\tПользователь Miska зашёл в чат","time":"2020-12-27T18:56:54.0054173Z"}
+{"username":"Server","token":0,"text":"\t\t\tПользователь Miska зашёл в чат","time":"2020-12-27T19:01:59.7567012Z"}
+{"username":"Server","token":0,"text":"\t\t\tПользователь Miska зашёл в чат","time":"2020-12-27T19:38:18.1731264Z"}
+{"username":"Server","token":0,"text":"\t\t\tПользователь Miska зашёл в чат","time":"2020-12-26T19:09:54.4072096Z"}
+{"username":"Server","token":0,"text":"\t\t\tПользователь Miska покинул чат","time":"2020-12-26T19:10:25.5159047Z"}
+{"username":"Server","token":0,"text":"\t\t\tПользователь Miska зашёл в чат","time":"2020-12-26T21:32:53.6887192Z"}
+{"username":"Server","token":0,"text":"\t\t\tПользователь Miska покинул чат","time":"2020-12-26T21:33:25.5085323Z"}
+{"username":"Server","token":0,"text":"\t\t\tПользователь Miska зашёл в чат","time":"2020-12-27T18:11:52.9911449Z"}
+{"username":"Server","token":0,"text":"\t\t\tПользователь Miska покинул чат","time":"2020-12-27T18:12:25.8421989Z"}
+{"username":"Server","token":0,"text":"\t\t\tПользователь Miska зашёл в чат","time":"2020-12-27T18:24:35.1768634Z"}
+{"username":"Server","token":0,"text":"\t\t\tПользователь Miska покинул чат","time":"2020-12-27T18:25:05.8554986Z"}
+{"username":"Server","token":0,"text":"\t\t\tПользователь Miska зашёл в чат","time":"2020-12-26T19:09:54.4072096Z"}
+{"username":"Server","token":0,"text":"\t\t\tПользователь Miska покинул чат","time":"2020-12-26T19:10:25.5159047Z"}
+{"username":"Server","token":0,"text":"\t\t\tПользователь Miska зашёл в чат","time":"2020-12-26T21:32:53.6887192Z"}
+{"username":"Server","token":0,"text":"\t\t\tПользователь Miska покинул чат","time":"2020-12-26T21:33:25.5085323Z"}
+{"username":"Server","token":0,"text":"\t\t\tПользователь Miska зашёл в чат","time":"2020-12-27T18:11:52.9911449Z"}
+{"username":"Server","token":0,"text":"\t\t\tПользователь Miska покинул чат","time":"2020-12-27T18:12:25.8421989Z"}
+{"username":"Server","token":0,"text":"\t\t\tПользователь Miska зашёл в чат","time":"2020-12-27T18:24:35.1768634Z"}
+{"username":"Server","token":0,"text":"\t\t\tПользователь Miska покинул чат","time":"2020-12-27T18:25:05.8554986Z"}
+{"username":"Server","token":0,"text":"\t\t\tПользователь Miska зашёл в чат","time":"2020-12-27T18:30:39.599239Z"}
+{"username":"Server","token":0,"text":"\t\t\tПользователь Miska покинул чат","time":"2020-12-27T18:31:05.8610744Z"}
+{"username":"Server","token":0,"text":"\t\t\tПользователь Miska зашёл в чат","time":"2020-12-27T18:34:04.8224587Z"}
+{"username":"Server","token":0,"text":"\t\t\tПользователь Miska покинул чат","time":"2020-12-27T18:34:25.8521857Z"}
+{"username":"Server","token":0,"text":"\t\t\tПользователь Miska зашёл в чат","time":"2020-12-27T18:45:42.6548495Z"}
+{"username":"Server","token":0,"text":"\t\t\tПользователь Miska покинул чат","time":"2020-12-27T18:46:10.7503396Z"}
+{"username":"Server","token":0,"text":"\t\t\tПользователь Miska зашёл в чат","time":"2020-12-27T18:46:20.8913738Z"}
+{"username":"Server","token":0,"text":"\t\t\tПользователь Miska покинул чат","time":"2020-12-27T18:46:50.7465542Z"}
+{"username":"Server","token":0,"text":"\t\t\tПользователь Miska зашёл в чат","time":"2020-12-27T18:48:36.965745Z"}
+{"username":"Server","token":0,"text":"\t\t\tПользователь Miska покинул чат","time":"2020-12-27T18:49:10.7437147Z"}
+{"username":"Server","token":0,"text":"\t\t\tПользователь Miska зашёл в чат","time":"2020-12-27T18:50:45.3369906Z"}
+{"username":"Server","token":0,"text":"\t\t\tПользователь Miska покинул чат","time":"2020-12-27T18:51:10.7408727Z"}
+{"username":"Server","token":0,"text":"\t\t\tПользователь Miska зашёл в чат","time":"2020-12-26T19:09:54.4072096Z"}
+{"username":"Server","token":0,"text":"\t\t\tПользователь Miska покинул чат","time":"2020-12-26T19:10:25.5159047Z"}
+{"username":"Server","token":0,"text":"\t\t\tПользователь Miska зашёл в чат","time":"2020-12-26T21:32:53.6887192Z"}
+{"username":"Server","token":0,"text":"\t\t\tПользователь Miska покинул чат","time":"2020-12-26T21:33:25.5085323Z"}
+{"username":"Server","token":0,"text":"\t\t\tПользователь Miska зашёл в чат","time":"2020-12-27T18:11:52.9911449Z"}
+{"username":"Server","token":0,"text":"\t\t\tПользователь Miska покинул чат","time":"2020-12-27T18:12:25.8421989Z"}
+{"username":"Server","token":0,"text":"\t\t\tПользователь Miska зашёл в чат","time":"2020-12-27T18:24:35.1768634Z"}
+{"username":"Server","token":0,"text":"\t\t\tПользователь Miska покинул чат","time":"2020-12-27T18:25:05.8554986Z"}
+{"username":"Server","token":0,"text":"\t\t\tПользователь Miska зашёл в чат","time":"2020-12-27T18:30:39.599239Z"}
+{"username":"Server","token":0,"text":"\t\t\tПользователь Miska покинул чат","time":"2020-12-27T18:31:05.8610744Z"}
+{"username":"Server","token":0,"text":"\t\t\tПользователь Miska зашёл в чат","time":"2020-12-27T18:34:04.8224587Z"}
+{"username":"Server","token":0,"text":"\t\t\tПользователь Miska покинул чат","time":"2020-12-27T18:34:25.8521857Z"}
+{"username":"Server","token":0,"text":"\t\t\tПользователь Miska зашёл в чат","time":"2020-12-27T18:45:42.6548495Z"}
+{"username":"Server","token":0,"text":"\t\t\tПользователь Miska покинул чат","time":"2020-12-27T18:46:10.7503396Z"}
+{"username":"Server","token":0,"text":"\t\t\tПользователь Miska зашёл в чат","time":"2020-12-27T18:46:20.8913738Z"}
+{"username":"Server","token":0,"text":"\t\t\tПользователь Miska покинул чат","time":"2020-12-27T18:46:50.7465542Z"}
+{"username":"Server","token":0,"text":"\t\t\tПользователь Miska зашёл в чат","time":"2020-12-27T18:48:36.965745Z"}
+{"username":"Server","token":0,"text":"\t\t\tПользователь Miska покинул чат","time":"2020-12-27T18:49:10.7437147Z"}
+{"username":"Server","token":0,"text":"\t\t\tПользователь Miska зашёл в чат","time":"2020-12-27T18:50:45.3369906Z"}
+{"username":"Server","token":0,"text":"\t\t\tПользователь Miska зашёл в чат","time":"2020-12-26T19:09:54.4072096Z"}
+{"username":"Server","token":0,"text":"\t\t\tПользователь Miska зашёл в чат","time":"2020-12-26T21:32:53.6887192Z"}
+{"username":"Server","token":0,"text":"\t\t\tПользователь Miska зашёл в чат","time":"2020-12-27T18:11:52.9911449Z"}
+{"username":"Server","token":0,"text":"\t\t\tПользователь Miska зашёл в чат","time":"2020-12-27T18:24:35.1768634Z"}
+{"username":"Server","token":0,"text":"\t\t\tПользователь Miska зашёл в чат","time":"2020-12-27T18:30:39.599239Z"}
+{"username":"Server","token":0,"text":"\t\t\tПользователь Miska зашёл в чат","time":"2020-12-27T18:34:04.8224587Z"}
+{"username":"Server","token":0,"text":"\t\t\tПользователь Miska зашёл в чат","time":"2020-12-27T18:45:42.6548495Z"}
+{"username":"Server","token":0,"text":"\t\t\tПользователь Miska зашёл в чат","time":"2020-12-27T18:46:20.8913738Z"}
+{"username":"Server","token":0,"text":"\t\t\tПользователь Miska зашёл в чат","time":"2020-12-27T18:48:36.965745Z"}
+{"username":"Server","token":0,"text":"\t\t\tПользователь Miska зашёл в чат","time":"2020-12-27T18:50:45.3369906Z"}
+{"username":"Server","token":0,"text":"\t\t\tПользователь Miska зашёл в чат","time":"2020-12-27T18:56:54.0054173Z"}
+{"username":"Server","token":0,"text":"\t\t\tПользователь Miska зашёл в чат","time":"2020-12-27T19:01:59.7567012Z"}
+{"username":"Server","token":0,"text":"\t\t\tПользователь Miska зашёл в чат","time":"2020-12-27T19:38:18.1731264Z"}
+{"username":"Server","token":0,"text":"\t\t\tПользователь Miska зашёл в чат","time":"2020-12-27T20:48:07.9565483Z"}
+{"username":"Server","token":0,"text":"\t\t\tПользователь Miska покинул чат","time":"2020-12-27T20:49:22.1578034Z"}
+{"username":"Server","token":0,"text":"\t\t\tПользователь Miska покинул чат","time":"2020-12-27T21:20:22.1692965Z"}
+{"username":"Server","token":0,"text":"\t\t\tПользователь Miska зашёл в чат","time":"2020-12-26T19:09:54.4072096Z"}
+{"username":"Server","token":0,"text":"\t\t\tПользователь Miska зашёл в чат","time":"2020-12-26T21:32:53.6887192Z"}
+{"username":"Server","token":0,"text":"\t\t\tПользователь Miska зашёл в чат","time":"2020-12-27T18:11:52.9911449Z"}
+{"username":"Server","token":0,"text":"\t\t\tПользователь Miska зашёл в чат","time":"2020-12-27T18:24:35.1768634Z"}
+{"username":"Server","token":0,"text":"\t\t\tПользователь Miska зашёл в чат","time":"2020-12-27T18:30:39.599239Z"}
+{"username":"Server","token":0,"text":"\t\t\tПользователь Miska зашёл в чат","time":"2020-12-27T18:34:04.8224587Z"}
+{"username":"Server","token":0,"text":"\t\t\tПользователь Miska зашёл в чат","time":"2020-12-27T18:45:42.6548495Z"}
+{"username":"Server","token":0,"text":"\t\t\tПользователь Miska зашёл в чат","time":"2020-12-27T18:46:20.8913738Z"}
+{"username":"Server","token":0,"text":"\t\t\tПользователь Miska зашёл в чат","time":"2020-12-27T18:48:36.965745Z"}
+{"username":"Server","token":0,"text":"\t\t\tПользователь Miska зашёл в чат","time":"2020-12-27T18:50:45.3369906Z"}
+{"username":"Server","token":0,"text":"\t\t\tПользователь Miska зашёл в чат","time":"2020-12-27T18:56:54.0054173Z"}
+{"username":"Server","token":0,"text":"\t\t\tПользователь Miska зашёл в чат","time":"2020-12-27T19:01:59.7567012Z"}
+{"username":"Server","token":0,"text":"\t\t\tПользователь Miska зашёл в чат","time":"2020-12-26T19:09:54.4072096Z"}
+{"username":"Server","token":0,"text":"\t\t\tПользователь Miska зашёл в чат","time":"2020-12-26T21:32:53.6887192Z"}
+{"username":"Server","token":0,"text":"\t\t\tПользователь Miska зашёл в чат","time":"2020-12-27T18:11:52.9911449Z"}
+{"username":"Server","token":0,"text":"\t\t\tПользователь Miska зашёл в чат","time":"2020-12-27T18:24:35.1768634Z"}
+{"username":"Server","token":0,"text":"\t\t\tПользователь Miska зашёл в чат","time":"2020-12-27T18:30:39.599239Z"}
+{"username":"Server","token":0,"text":"\t\t\tПользователь Miska зашёл в чат","time":"2020-12-27T18:34:04.8224587Z"}
+{"username":"Server","token":0,"text":"\t\t\tПользователь Miska зашёл в чат","time":"2020-12-27T18:45:42.6548495Z"}
+{"username":"Server","token":0,"text":"\t\t\tПользователь Miska зашёл в чат","time":"2020-12-27T18:46:20.8913738Z"}
+{"username":"Server","token":0,"text":"\t\t\tПользователь Miska зашёл в чат","time":"2020-12-27T18:48:36.965745Z"}
+{"username":"Server","token":0,"text":"\t\t\tПользователь Miska зашёл в чат","time":"2020-12-27T18:50:45.3369906Z"}
+{"username":"Server","token":0,"text":"\t\t\tПользователь Miska зашёл в чат","time":"2020-12-27T18:56:54.0054173Z"}
+{"username":"Server","token":0,"text":"\t\t\tПользователь Miska зашёл в чат","time":"2020-12-27T19:01:59.7567012Z"}
+{"username":"Server","token":0,"text":"\t\t\tПользователь Miska зашёл в чат","time":"2020-12-27T19:38:18.1731264Z"}
+{"username":"Server","token":0,"text":"\t\t\tПользователь Miska зашёл в чат","time":"2020-12-27T20:48:07.9565483Z"}
+{"username":"Server","token":0,"text":"\t\t\tПользователь Miska покинул чат","time":"2020-12-27T20:49:22.1578034Z"}
+{"username":"Server","token":0,"text":"\t\t\tПользователь Miska покинул чат","time":"2020-12-27T21:20:22.1692965Z"}
+{"username":"Server","token":0,"text":"\t\t\tПользователь Miska зашёл в чат","time":"2020-12-26T19:09:54.4072096Z"}
+{"username":"Server","token":0,"text":"\t\t\tПользователь Miska зашёл в чат","time":"2020-12-26T21:32:53.6887192Z"}
+{"username":"Server","token":0,"text":"\t\t\tПользователь Miska зашёл в чат","time":"2020-12-27T18:11:52.9911449Z"}
+{"username":"Server","token":0,"text":"\t\t\tПользователь Miska зашёл в чат","time":"2020-12-27T18:24:35.1768634Z"}
+{"username":"Server","token":0,"text":"\t\t\tПользователь Miska зашёл в чат","time":"2020-12-27T18:30:39.599239Z"}
+{"username":"Server","token":0,"text":"\t\t\tПользователь Miska зашёл в чат","time":"2020-12-27T18:34:04.8224587Z"}
+{"username":"Server","token":0,"text":"\t\t\tПользователь Miska зашёл в чат","time":"2020-12-27T18:45:42.6548495Z"}
+{"username":"Server","token":0,"text":"\t\t\tПользователь Miska зашёл в чат","time":"2020-12-27T18:46:20.8913738Z"}
+{"username":"Server","token":0,"text":"\t\t\tПользователь Miska зашёл в чат","time":"2020-12-27T18:48:36.965745Z"}
+{"username":"Server","token":0,"text":"\t\t\tПользователь Miska зашёл в чат","time":"2020-12-27T18:50:45.3369906Z"}
+{"username":"Server","token":0,"text":"\t\t\tПользователь Miska зашёл в чат","time":"2020-12-27T18:56:54.0054173Z"}
+{"username":"Server","token":0,"text":"\t\t\tПользователь Miska зашёл в чат","time":"2020-12-27T19:01:59.7567012Z"}
+{"username":"Server","token":0,"text":"\t\t\tПользователь Miska зашёл в чат","time":"2020-12-27T19:38:18.1731264Z"}
+{"username":"Server","token":0,"text":"\t\t\tПользователь Miska зашёл в чат","time":"2020-12-27T20:48:07.9565483Z"}
+{"username":"Server","token":0,"text":"\t\t\tПользователь Miska покинул чат","time":"2020-12-27T20:49:22.1578034Z"}
+{"username":"Server","token":0,"text":"\t\t\tПользователь Miska покинул чат","time":"2020-12-27T21:20:22.1692965Z"}
+{"username":"Server","token":0,"text":"\t\t\tПользователь Miska покинул чат","time":"2020-12-27T21:34:42.1740779Z"}
+{"username":"Server","token":0,"text":"\t\t\tПользователь Miska зашёл в чат","time":"2020-12-26T19:09:54.4072096Z"}
+{"username":"Server","token":0,"text":"\t\t\tПользователь Miska зашёл в чат","time":"2020-12-26T21:32:53.6887192Z"}
+{"username":"Server","token":0,"text":"\t\t\tПользователь Miska зашёл в чат","time":"2020-12-27T18:11:52.9911449Z"}
+{"username":"Server","token":0,"text":"\t\t\tПользователь Miska зашёл в чат","time":"2020-12-27T18:24:35.1768634Z"}
+{"username":"Server","token":0,"text":"\t\t\tПользователь Miska зашёл в чат","time":"2020-12-27T18:30:39.599239Z"}
+{"username":"Server","token":0,"text":"\t\t\tПользователь Miska зашёл в чат","time":"2020-12-27T18:34:04.8224587Z"}
+{"username":"Server","token":0,"text":"\t\t\tПользователь Miska зашёл в чат","time":"2020-12-27T18:45:42.6548495Z"}
+{"username":"Server","token":0,"text":"\t\t\tПользователь Miska зашёл в чат","time":"2020-12-26T19:09:54.4072096Z"}
+{"username":"Server","token":0,"text":"\t\t\tПользователь Miska зашёл в чат","time":"2020-12-26T19:09:54.4072096Z"}
+{"username":"Server","token":0,"text":"\t\t\tПользователь Miska зашёл в чат","time":"2020-12-26T19:09:54.4072096Z"}
+{"username":"Server","token":0,"text":"\t\t\tПользователь Miska зашёл в чат","time":"2020-12-26T21:32:53.6887192Z"}
